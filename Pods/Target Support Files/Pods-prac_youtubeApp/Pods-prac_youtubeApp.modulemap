@@ -1,0 +1,6 @@
+framework module Pods_prac_youtubeApp {
+  umbrella header "Pods-prac_youtubeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
